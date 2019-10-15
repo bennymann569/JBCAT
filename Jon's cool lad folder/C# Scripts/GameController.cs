@@ -8,7 +8,6 @@ using TMPro;
 public class GameController : MonoBehaviour {
 
     // Declare Output Textboxes and their logs
-
     public TextMeshProUGUI defaultDisplayText, hackingDisplayText, currentDisplayText;
     [HideInInspector]
     public List<string> currentActionLog, oldActionLog, textModeActionLog, hackingActionLog = new List<string>();
