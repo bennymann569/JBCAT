@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FileCopyer", "FileCopyer\FileCopyer.pyproj", "{AC6CBCF8-8E15-46FB-8D60-2312C4FD1D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC6CBCF8-8E15-46FB-8D60-2312C4FD1D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6CBCF8-8E15-46FB-8D60-2312C4FD1D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6CA5D03-FA2E-4BB5-BD44-3FDB8762703B}
+	EndGlobalSection
+EndGlobal

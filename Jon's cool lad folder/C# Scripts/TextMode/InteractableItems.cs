@@ -310,7 +310,7 @@ public class InteractableItems : MonoBehaviour
     public void Press(string[] separatedInputWords)
     {
         //If the player inputs anything wrong, this should guide them to using the command correctly.
-        if ((1 <= separatedInputWords.Length && separatedInputWords.Length <= 3) || (5 <= separatedInputWords.Length))
+        if ((separatedInputWords.Length != 4))
             controller.LogStringWithReturn("What are you trying to enter into what? (Press [code] on [object])");
         else
         {
