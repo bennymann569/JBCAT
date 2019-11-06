@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AddUserToGroup", "AddUserToGroup\AddUserToGroup.pyproj", "{5504AF50-29F3-4D78-86C8-1F185BF289CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5504AF50-29F3-4D78-86C8-1F185BF289CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5504AF50-29F3-4D78-86C8-1F185BF289CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B44332F4-8A57-454F-81D5-736F27907CE5}
+	EndGlobalSection
+EndGlobal
